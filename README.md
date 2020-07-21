@@ -1,2 +1,2 @@
 # swiftui-views-preview-list
-SwiftU auto generated list for View's Preview
+SwiftUI auto generated list for View's Preview
